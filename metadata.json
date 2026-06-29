@@ -1,0 +1,6 @@
+{
+  "name": "Plush Claw Machine",
+  "description": "An arcade claw machine game with cute plush teddy bears, dynamic audio mixer settings, and real-time leaderboard simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
